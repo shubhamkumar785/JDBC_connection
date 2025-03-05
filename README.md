@@ -1,1 +1,2 @@
-# JDBC_connection
+# JDBC_connection 
+Communicate Java with Database 
